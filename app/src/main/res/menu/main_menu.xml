@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/user_session"
+        android:title="@string/user_info"
+        android:orderInCategory="100"
+        app:showAsAction="collapseActionView" />
+
+    <item
+        android:id="@+id/show_characters"
+        android:title="@string/characters"
+        android:orderInCategory="200"
+        app:showAsAction="collapseActionView" />
+
+    <item
+        android:id="@+id/user_logout"
+        android:title="@string/logout"
+        android:orderInCategory="300"
+        app:showAsAction="collapseActionView" />
+
+</menu>

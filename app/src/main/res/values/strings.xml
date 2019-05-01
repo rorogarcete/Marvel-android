@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MarvelApp</string>
+    <string name="content_description_item_in_character">item_character_image</string>
+    <string name="transition_character_image">transition_character_image</string>
+    <string name="transition_detail_image">transition_detail_image</string>
+    <string name="transition_detail_title">transition_detail_title</string>
+    <string name="transition_creator_name">transition_creator_name</string>
+    <string name="transition_character_name">transition_character_name</string>
+    <string name="image_gallery_content_descriptor">imageGallery</string>
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.voluptate velit esse cillum dolore eu fugiat nulla pariatur.</string>
+    <string name="logout">Logout</string>
+    <string name="characters">Characters</string>
+    <string name="user_info">User Info</string>
+    <string name="txt_login">Login with Google</string>
+</resources>
